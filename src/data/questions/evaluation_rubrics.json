@@ -1,0 +1,81 @@
+{
+  "evaluation_criteria": {
+    "competencies": [
+      {
+        "name": "Communication Skills",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Poor communication; message not clear."
+          },
+          {
+            "level": "2",
+            "description": "Basic communication; some clarity but lacks depth."
+          },
+          {
+            "level": "3",
+            "description": "Good communication; clear message with some detail.",
+            "scoring": "3"
+          },
+          {
+            "level": "4",
+            "description": "Excellent communication; message is clear, concise and insightful.",
+            "scoring": "4"
+          }
+        ]
+      },
+      {
+        "name": "Problem Solving",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Unable to identify the problem."
+          },
+          {
+            "level": "2",
+            "description": "Identifies the problem but provides no solutions."
+          },
+          {
+            "level": "3",
+            "description": "Identifies the problem and suggests plausible solutions.",
+            "scoring": "3"
+          },
+          {
+            "level": "4",
+            "description": "Identifies the problem, provides solutions, and explains reasoning.",
+            "scoring": "4"
+          }
+        ]
+      },
+      {
+        "name": "Teamwork",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Does not engage with team members."
+          },
+          {
+            "level": "2",
+            "description": "Engages minimally with team members."
+          },
+          {
+            "level": "3",
+            "description": "Collaborates with team members effectively.",
+            "scoring": "3"
+          },
+          {
+            "level": "4",
+            "description": "Leads team discussions and fosters collaboration.",
+            "scoring": "4"
+          }
+        ]
+      }
+    ],
+    "assessment_guidelines": [
+      "Listen actively to the candidate's responses.",
+      "Ask follow-up questions to clarify responses.",
+      "Use a scoring rubric to quantify the evaluation.",
+      "Provide constructive feedback based on the evaluation."
+    ]
+  }
+}
